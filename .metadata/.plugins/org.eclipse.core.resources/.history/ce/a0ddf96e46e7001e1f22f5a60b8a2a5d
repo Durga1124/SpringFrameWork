@@ -1,0 +1,17 @@
+package lombokproject;
+
+import lombok.Builder;
+import lombok.ToString;
+
+@Builder
+@ToString
+public class Test1 {
+	public static void main(String[] args) {
+		
+		Employee2 employee2=();
+	}
+	
+	
+
+	
+}

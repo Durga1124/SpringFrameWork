@@ -1,0 +1,37 @@
+package lombokproject;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+
+@Setter
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+@ToString
+
+public class Employee {
+	private int empId;
+	private String empName;
+	private double empSalary;
+
+}
+public class test{
+public static void main(String[] args) {
+		
+		//constructor injecting values
+				Employee employee=new Employee(111,"Durga",20000);
+				System.out.println(employee);
+				
+				
+				// setters injecting values
+				Employee employee2=new Employee();
+				employee2.setEmpId(1001);
+				employee2.setEmpName("Prasad");
+				employee2.setEmpSalary(20000);
+			    System.out.println(employee2.getEmpId()+" "+employee2.getEmpName()+" "+employee2.getEmpSalary()); 
+}
+}

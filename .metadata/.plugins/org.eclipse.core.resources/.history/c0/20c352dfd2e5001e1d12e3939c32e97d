@@ -1,0 +1,3 @@
+spring.application.name=SpringBootExample1
+
+Spring.Port=8004

@@ -1,0 +1,9 @@
+package com.sathya.springex;
+
+public class RealStateService implements landservice{
+
+	public void realstateInfo() {
+	System.out.println("Welcome to the RealStateServices ");
+	System.out.println("select the landservices for  new house construction...");
+}
+}

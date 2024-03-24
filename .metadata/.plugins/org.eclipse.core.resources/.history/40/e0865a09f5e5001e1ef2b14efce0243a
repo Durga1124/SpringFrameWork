@@ -1,0 +1,15 @@
+package lombokproject;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+@Getter
+@Setter
+public class Employee {
+	private int empId;
+	private String empName;
+	private double empSalary;
+
+}

@@ -1,0 +1,16 @@
+package com.sathya.springex;
+
+public class HomeLoanService implements loanService{
+
+	
+
+	@Override
+	public void loaninfo()  {
+		
+		System.out.println("Welcome to the HomeLoanServices");
+		System.out.println("Check the loan elgible or not...");
+	
+		
+	}
+
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\SpringFrameWork\SpringExample7"/>
+			<item value="C:\SpringFrameWork\SpringExample5"/>
+			<item value="C:\SpringFrameWork\SpringExample3"/>
+			<item value="C:\SpringFrameWork\SpringExample1\pom.xml"/>
+			<item value="C:\SpringFrameWork\SpringExample1\src\main\java\com\sathya\springex\App.java"/>
+			<item value="SpringFrameWorkProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.sathya.springex.SpringExample7"/>
+			<item value="com.sathya.springex.SpringExample8"/>
+			<item value="com.sathya.springex.SpringExample5"/>
+			<item value="com.sathya.springex.SpringExample6"/>
+			<item value="com.sathya.springex.SpringExample4"/>
+			<item value="com.sathya.springex"/>
+			<item value="com.sathya.spring2"/>
+			<item value="com.sathya.spring1.malli_pelli"/>
+			<item value="com.sathya.spring1.springExample2"/>
+		</list>
+		<list key="groupId">
+			<item value="com.sathya.springex"/>
+			<item value="com.sathya.spring2"/>
+			<item value="com.sathya.spring1"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringExample7"/>
+			<item value="SpringExample8"/>
+			<item value="SpringExample5"/>
+			<item value="SpringExample6"/>
+			<item value="SpringExample4"/>
+			<item value="SpringExample3"/>
+			<item value="SpringExample2"/>
+			<item value="malli-pelli"/>
+			<item value="springExample2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\SpringBoot\SpringBootExample1"/>
+			<item value="C:\SpringBoot\SpringExample1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

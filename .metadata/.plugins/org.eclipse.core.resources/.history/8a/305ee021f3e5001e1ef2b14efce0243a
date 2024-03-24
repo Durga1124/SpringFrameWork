@@ -1,0 +1,13 @@
+package com.sathya.SpringBootExample;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		//Constructor injecting the values
+		
+		Employee employee= new Employee(111,"rathan",10000.02);
+		
+	}
+
+}

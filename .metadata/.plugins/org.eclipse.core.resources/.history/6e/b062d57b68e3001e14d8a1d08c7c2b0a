@@ -1,0 +1,33 @@
+package com.sathya.springex;
+
+public class Patient {
+
+	private String name;
+	private int age;
+	private String Doctor;
+	private  String Pharmcy;
+	public Patient(String name, int age, String doctor, String pharmcy) {
+		super();
+		this.name = name;
+		this.age = age;
+		Doctor = doctor;
+		Pharmcy = pharmcy;
+	}
+	
+	public void details() {
+		
+		System.out.println("Hey"+name+" Welcome to Sathya World....");
+		System.out.println("Check your AGE..."+age+" to get updates");
+		Doctor.doctorInfo();
+		Pharmcy.pharInfo();
+		
+		
+		
+	}
+	
+	
+	
+	}
+	
+	
+

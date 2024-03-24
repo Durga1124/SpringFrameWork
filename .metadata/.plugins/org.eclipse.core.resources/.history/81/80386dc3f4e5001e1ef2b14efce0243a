@@ -1,0 +1,23 @@
+package lombokproject;
+
+import com.sathya.SpringBootExample.Employee;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		// Constructor injecting values
+		Employee employee= new Employee(111,"rathan",10000.02);
+		System.out.println(employee);
+		
+		//setters are injecting the values
+		Employee employee2=new Employee();
+		employee2.setEmpId(1001);
+		employee2.setEmpName("durga");
+		employee2.setEmpSalary(20000.12);
+		System.out.println(employee2.getEmpId()+""+employee2.getEmpName()+);
+				
+		
+	}
+
+}

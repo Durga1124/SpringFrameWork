@@ -1,0 +1,24 @@
+package lombokproject;
+
+
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		// setters injecting values
+	Employee employee=new Employee();
+	employee.setEmpId(1);
+	employee.setEmpName("durga");
+	employee.setEmpId(20000);
+			System.out.println(employee); 
+				
+		
+	//constructor injecting values
+			Employee employee2=new Employee(1,"prasad",20000);
+			System.out.println(employee2);
+			
+			
+	}
+
+}

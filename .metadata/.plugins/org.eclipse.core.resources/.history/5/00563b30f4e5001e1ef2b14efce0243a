@@ -1,0 +1,13 @@
+package lombokproject;
+
+import com.sathya.SpringBootExample.Employee;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Employee employee= new Employee(111,"rathan",10000.02);
+	}
+
+}

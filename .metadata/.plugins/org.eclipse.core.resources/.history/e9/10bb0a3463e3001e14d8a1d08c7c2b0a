@@ -1,0 +1,14 @@
+package com.sathya.springex;
+
+public class Patient {
+
+	private Doctor name;
+	private Patient age;
+	private 
+	private
+	
+	
+	}
+	
+	
+
